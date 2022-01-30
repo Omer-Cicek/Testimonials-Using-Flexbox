@@ -24,7 +24,7 @@
 .panel {
   width: 1100px;
   height: 580px;
-  margin-top: 180px;
+  margin-top: 80px;
   border: 2px red solid;
   display: flex;
   flex-direction: row;
@@ -137,4 +137,14 @@ p {
   color: black;
   opacity: 0.5;
   font-size: 12px;
+}
+
+@media screen and (max-width: 1229px) {
+  .right-cards {
+    height: 250px;
+    width: 790px;
+    border: 2px red solid;
+    border-radius: 10px;
+    background-color: #fff;
+  }
 }

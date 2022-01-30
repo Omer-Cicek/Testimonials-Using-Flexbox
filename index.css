@@ -41,6 +41,8 @@
   height: 580px;
   width: 270px;
   border: 2px red solid;
+  border-radius: 10px;
+  background-color: #fff;
 }
 .up-cards {
   width: 820px;
@@ -60,6 +62,8 @@
   width: 230px;
   height: 290px;
   border: 2px red solid;
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 10px;
 }
 .down-cards {
   width: 820px;
@@ -72,12 +76,17 @@
   width: 230px;
   height: 290px;
   border: 2px red solid;
+  border-radius: 10px;
+  background-color: #fff;
 }
 .black-card {
   width: 530px;
   height: 290px;
   border: 2px red solid;
+  background-color: hsl(219, 29%, 14%);
+  border-radius: 10px;
 }
+
 .image {
   border-radius: 50%;
   padding: 20px;
@@ -96,10 +105,36 @@
   padding-bottom: 5px;
 }
 .verified {
-  color: white;
+  color: hsl(0, 0%, 100%);
   opacity: 0.5;
   font-size: 13px;
 }
 .topic-card {
   padding-left: 20px;
+  color: hsl(210, 46%, 95%);
+}
+
+p {
+  padding: 20px;
+  font-size: 13px;
+  color: hsl(0, 0%, 81%);
+  letter-spacing: 0.5px;
+}
+.topic-card-black {
+  color: black;
+  opacity: 0.7;
+}
+
+.p-black {
+  color: black;
+  opacity: 0.7;
+}
+.p-black-name {
+  color: black;
+  opacity: 0.9;
+}
+.p-black-verified {
+  color: black;
+  opacity: 0.5;
+  font-size: 12px;
 }

@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+.container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #dadfe7;
+  justify-content: center;
+  align-items: center;
+  border: 1px red solid;
+  align-items: center;
+  justify-content: center;
+}
+
+.first-container {
+  width: 70%;
+  border: 1px red solid;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-content: flex-start;
+}
+.second-container {
+  width: 20%;
+  border: 1px red solid;
+  display: flex;
+  margin: auto;
+}
+.rows {
+  display: flex;
+  flex-direction: row;
+  border: 1px red solid;
+  height: 50%;
+}
+
+.daniel-clifford {
+  background-color: hsl(263, 55%, 52%);
+  width: 60%;
+  border-radius: 10px;
+  height: 40%;
+  margin: 10px;
+}
+.jonathan-walters {
+  background-color: hsl(217, 19%, 35%);
+  width: 30%;
+  border-radius: 10px;
+  height: 40%;
+  margin: 10px;
+}
+.jeanette-harmon {
+  background-color: #fff;
+  width: 30%;
+  border-radius: 10px;
+  height: 40%;
+  margin: 10px;
+}
+.patrick-abrams {
+  background-color: hsl(219, 29%, 14%);
+  width: 60%;
+  border-radius: 10px;
+  height: 25%;
+  margin: 10px;
+}
+.kira-whittle {
+  background-color: #fff;
+  width: 100%;
+  border-radius: 10px;
+  height: 25%;
+  margin: 10px;
+}
+.testimonal-main {
+  margin: 10px;
+}
+
+.verified-graduate {
+  color: #fff;
+  opacity: 0.7;
+}
+.avatar {
+  border-radius: 50%;
+}
+.verified-graduate-p {
+  opacity: 0.5;
+  font-size: 13px;
+}

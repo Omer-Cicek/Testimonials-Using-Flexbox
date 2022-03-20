@@ -6,7 +6,7 @@
 
 Thanks to visit my Github! In this project, i used flexbox. This project will automatically adjust for different screen sizes and viewports. I tried to create responsive designed testimonials.
 
-**To do this project, i used basic understanding of HTML and CSS.**
+**To do this project, i used basic HTML and CSS.**
 
 ## The challenge
 

@@ -18,4 +18,4 @@ Users should be able to:
 
 Feedbacks are always improve my technical knowledge, so you feel free to give me a feedback at my LinkedIn account (https://www.linkedin.com/in/omercicek97/) 🙌
 
-**That'What I Did!** 🚀
+**That Is What I Did!** 🚀
